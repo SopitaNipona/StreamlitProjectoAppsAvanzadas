@@ -1,0 +1,3 @@
+La inteligencia artificial es una rama de la informática que se enfoca en crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana. Estos sistemas pueden aprender de la experiencia, adaptarse a nuevas situaciones y realizar tareas complejas de manera autónoma.
+
+El aprendizaje automático es una parte fundamental de la inteligencia artificial, permitiendo a las máquinas mejorar su rendimiento con el tiempo sin ser programadas explícitamente para cada tarea específica.

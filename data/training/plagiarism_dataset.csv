@@ -1,0 +1,986 @@
+text1,text2,is_plagiarism,plagiarism_type
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,identical
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.",True,identical
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La IA es una rama de la informática que busca desarrollar
+            programas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.",True,medium_paraphrase
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.",True,identical
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","Los métodos computacionales de clasificación son esenciales en el aprendizaje
+            supervisado. Aprenden a categorizar información en clases predefinidas a través de
+            el análisis de ejemplos etiquetados durante el entrenamiento.",True,medium_paraphrase
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","Los chatbots emplean PLN para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.",True,heavy_paraphrase
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El machine learning facilita a las ordenadores adquirir conocimiento de los información
+            sin ser explícitamente programadas. Utiliza métodos computacionales estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.",True,medium_paraphrase
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con varias
+            capas para adquirir conocimiento representaciones jerárquicas de los información.",True,light_paraphrase
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El PLN constituye una disciplina que combina
+            lingüística e IA para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,heavy_paraphrase
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","Los chatbots emplean procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.",True,light_paraphrase
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El PLN es una disciplina que combina
+            lingüística e IA para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,medium_paraphrase
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","El aprendizaje profundo ha revolucionado campos tales como la computer vision
+            y el reconocimiento de voz. Utiliza neural networks profundas con varias
+            capas para adquirir conocimiento representaciones jerárquicas de los información.",True,heavy_paraphrase
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La IA es una rama de la informática que busca desarrollar
+            programas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.",True,medium_paraphrase
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,light_paraphrase
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,identical
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El aprendizaje por refuerzo facilita a los agentes adquirir conocimiento a través de
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.",True,medium_paraphrase
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El aprendizaje automático facilita a las ordenadores adquirir conocimiento de los información
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.",True,light_paraphrase
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.",True,light_paraphrase
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","Los métodos computacionales de clasificación son esenciales en el aprendizaje
+            supervisado. Aprenden a categorizar información en clases predefinidas a través de
+            el análisis de ejemplos etiquetados durante el entrenamiento.",True,medium_paraphrase
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","El reconocimiento de imágenes emplea técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.",True,light_paraphrase
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El machine learning facilita a las ordenadores adquirir conocimiento de los información
+            sin ser explícitamente programadas. Utiliza métodos computacionales estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.",True,medium_paraphrase
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en IA es un tema crítico en la actualidad.
+            Es fundamental desarrollar programas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,heavy_paraphrase
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El aprendizaje por refuerzo facilita a los agentes adquirir conocimiento a través de
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.",True,heavy_paraphrase
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","Los métodos computacionales de clasificación son esenciales en el aprendizaje
+            supervisado. Aprenden a categorizar información en clases predefinidas a través de
+            el análisis de ejemplos etiquetados durante el entrenamiento.",True,heavy_paraphrase
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar programas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,light_paraphrase
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.",True,identical
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.",True,light_paraphrase
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El aprendizaje automático facilita a las ordenadores adquirir conocimiento de los información
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.",True,light_paraphrase
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El machine learning facilita a las ordenadores adquirir conocimiento de los información
+            sin necesidad de ser explícitamente programadas. Utiliza métodos computacionales estadísticos para
+            identificar patrones y hacer predicciones fundamentadas en ejemplos.",True,heavy_paraphrase
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,identical
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.",True,identical
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con varias
+            capas para adquirir conocimiento representaciones jerárquicas de los información.",True,light_paraphrase
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.",True,identical
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","El aprendizaje profundo ha revolucionado campos tales como la computer vision
+            y el reconocimiento de voz. Utiliza neural networks profundas con varias
+            capas para adquirir conocimiento representaciones jerárquicas de los información.",True,heavy_paraphrase
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en IA es un tema crítico en la actualidad.
+            Es fundamental desarrollar programas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,heavy_paraphrase
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El aprendizaje por refuerzo facilita a los agentes adquirir conocimiento a través de
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.",True,light_paraphrase
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El PLN es una disciplina que combina
+            lingüística e IA para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,medium_paraphrase
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,light_paraphrase
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar programas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,light_paraphrase
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La IA es una rama de la informática que busca desarrollar
+            programas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.",True,medium_paraphrase
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El PLN constituye una disciplina que combina
+            lingüística e IA para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,heavy_paraphrase
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","Los algoritmos de clasificación son esenciales en el aprendizaje
+            supervisado. Aprenden a categorizar información en clases predefinidas a través de
+            el análisis de ejemplos etiquetados durante el entrenamiento.",True,light_paraphrase
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,identical
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","Las neural networks artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.",True,heavy_paraphrase
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,light_paraphrase
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","Los chatbots emplean PLN para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.",True,medium_paraphrase
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.",True,identical
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.",True,identical
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La IA es una rama de la informática que busca desarrollar
+            programas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.",True,medium_paraphrase
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en IA es un tema crítico en la actualidad.
+            Es fundamental desarrollar programas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,medium_paraphrase
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,identical
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","Los chatbots emplean procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.",True,light_paraphrase
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.",True,identical
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",La ética en inteligencia artificial es un tema crítico en la actualidad Los avances tecnológicos continúan transformando nuestra sociedad.,True,partial_copy
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,identical
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.",True,identical
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La IA es una rama de la informática que busca desarrollar
+            programas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.",True,medium_paraphrase
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.",True,identical
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.",True,identical
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","El reconocimiento de imágenes emplea técnicas de computer vision
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos tienen la capacidad de alcanzar precisión superior a la humana en tareas específicas.",True,heavy_paraphrase
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","Los métodos computacionales de clasificación son esenciales en el aprendizaje
+            supervisado. Aprenden a categorizar información en clases predefinidas a través de
+            el análisis de ejemplos etiquetados durante el entrenamiento.",True,heavy_paraphrase
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,identical
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","Los algoritmos de clasificación son esenciales en el aprendizaje
+            supervisado. Aprenden a categorizar información en clases predefinidas a través de
+            el análisis de ejemplos etiquetados durante el entrenamiento.",True,light_paraphrase
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La inteligencia artificial es una rama de la informática que busca desarrollar
+            programas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.",True,light_paraphrase
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,identical
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.",True,identical
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El machine learning facilita a las ordenadores adquirir conocimiento de los información
+            sin necesidad de ser explícitamente programadas. Utiliza métodos computacionales estadísticos para
+            identificar patrones y hacer predicciones fundamentadas en ejemplos.",True,heavy_paraphrase
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","Los chatbots emplean PLN para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.",True,heavy_paraphrase
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,identical
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.",True,light_paraphrase
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El machine learning facilita a las ordenadores adquirir conocimiento de los información
+            sin ser explícitamente programadas. Utiliza métodos computacionales estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.",True,medium_paraphrase
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"El aprendizaje automático permite a las computadoras aprender de los datos
+            sin ser explícitamente programadas. Utiliza algoritmos estadísticos para
+            identificar patrones y hacer predicciones basadas en ejemplos.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,identical
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en IA es un tema crítico en la actualidad.
+            Es fundamental desarrollar programas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,medium_paraphrase
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El aprendizaje por refuerzo facilita a los agentes adquirir conocimiento a través de
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.",True,medium_paraphrase
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.",True,identical
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.",True,identical
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.",True,identical
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,identical
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El aprendizaje por refuerzo facilita a los agentes adquirir conocimiento a través de
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.",True,medium_paraphrase
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","La literatura del siglo XIX reflejaba las transformaciones sociales
+            de la era industrial. Autores como Dickens y Balzac retrataron las
+            condiciones de vida de las clases trabajadoras.",False,none
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","La IA es una rama de la informática que busca desarrollar
+            programas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.",True,medium_paraphrase
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","Los algoritmos de clasificación son esenciales en el aprendizaje
+            supervisado. Aprenden a categorizar información en clases predefinidas a través de
+            el análisis de ejemplos etiquetados durante el entrenamiento.",True,light_paraphrase
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"La inteligencia artificial es una rama de la informática que busca crear
+            sistemas capaces de realizar tareas que normalmente requieren inteligencia
+            humana, como el aprendizaje, el razonamiento y la resolución de problemas.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.",True,identical
+"El deep learning ha revolucionado campos como la visión por computadora
+            y el reconocimiento de voz. Utiliza redes neuronales profundas con múltiples
+            capas para aprender representaciones jerárquicas de los datos.","La música clásica europea del período barroco se caracteriza por
+            su ornamentación elaborada y el uso del bajo continuo. Compositores
+            como Bach y Händel definieron este estilo musical.",False,none
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El PLN constituye una disciplina que combina
+            lingüística e IA para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,heavy_paraphrase
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","Los chatbots emplean procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.",True,light_paraphrase
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"La ética en inteligencia artificial es un tema crítico en la actualidad.
+            Es fundamental desarrollar sistemas de IA que sean justos, transparentes
+            y respeten la privacidad y los derechos de las personas.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno. Reciben recompensas o penalizaciones según
+            sus acciones, optimizando su comportamiento con el tiempo.","El aprendizaje por refuerzo permite a los agentes aprender mediante
+            interacción con su entorno Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"El reconocimiento de imágenes utiliza técnicas de visión por computadora
+            para identificar objetos, personas y escenas en fotografías. Los modelos
+            modernos pueden alcanzar precisión superior a la humana en tareas específicas.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El PLN constituye una disciplina que combina
+            lingüística e IA para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,heavy_paraphrase
+"Los chatbots utilizan procesamiento del lenguaje natural para mantener
+            conversaciones con usuarios. Pueden responder preguntas, proporcionar
+            asistencia y realizar tareas automatizadas de manera conversacional.","El cambio climático es uno de los mayores desafíos de nuestro tiempo.
+            Las emisiones de gases de efecto invernadero están causando un aumento
+            en las temperaturas globales y eventos climáticos extremos.",False,none
+"Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano. Consisten en capas de nodos interconectados que procesan
+            información de manera distribuida para resolver problemas complejos.","Las redes neuronales artificiales están inspiradas en el funcionamiento
+            del cerebro humano Los avances tecnológicos continúan transformando nuestra sociedad.",True,partial_copy
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.",True,light_paraphrase
+"El procesamiento del lenguaje natural es una disciplina que combina
+            lingüística e inteligencia artificial para permitir que las máquinas
+            comprendan y generen lenguaje humano de manera efectiva.","El sistema solar está compuesto por ocho planetas que orbitan alrededor
+            del Sol. Cada planeta tiene características únicas en cuanto a tamaño,
+            composición y condiciones atmosféricas.",False,none
+"Los algoritmos de clasificación son fundamentales en el aprendizaje
+            supervisado. Aprenden a categorizar datos en clases predefinidas mediante
+            el análisis de ejemplos etiquetados durante el entrenamiento.","La gastronomía mediterránea se caracteriza por el uso de aceite de oliva,
+            vegetales frescos y pescado. Es considerada una de las dietas más saludables
+            del mundo por sus beneficios cardiovasculares.",False,none

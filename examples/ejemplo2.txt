@@ -1,0 +1,3 @@
+La IA representa un campo de las ciencias computacionales dedicado al desarrollo de programas que pueden ejecutar actividades típicamente asociadas con el pensamiento humano. Dichos programas tienen la capacidad de adquirir conocimiento a través de la práctica, ajustarse a circunstancias distintas y llevar a cabo operaciones sofisticadas de forma independiente.
+
+El machine learning constituye un componente esencial de la IA, facilitando que los sistemas informáticos perfeccionen su desempeño gradualmente sin necesidad de codificación específica para cada actividad particular.
