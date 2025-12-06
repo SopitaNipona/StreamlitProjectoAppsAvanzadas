@@ -1,0 +1,60 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info
+dist
+build
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation (no necesaria en imagen)
+*.md
+!README.md
+docs/
+
+# Cache y logs
+cache/
+*.log
+*.db
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Testing
+tests/
+.pytest_cache/
+
+# Deployment configs (no necesarios en imagen)
+.streamlit/
+render.yaml
+packages.txt
+setup.sh
+
+# Docker itself
+Dockerfile
+docker-compose.yml
+.dockerignore

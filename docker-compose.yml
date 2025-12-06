@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  detector-plagio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: detector-plagio-app
+    ports:
+      - "8501:8501"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      # Montar directorio de cache para persistencia
+      - ./cache:/app/cache
+      # Opcional: montar código para desarrollo (comentar en producción)
+      # - ./app.py:/app/app.py
+      # - ./src:/app/src
+    restart: unless-stopped
+    mem_limit: 2g
+    cpus: 1.0
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+# Configuración de red (opcional, para múltiples servicios)
+networks:
+  default:
+    name: plagiarism-detector-network

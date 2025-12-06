@@ -1,25 +1,28 @@
 # dependencias principales
-numpy==1.24.3
-pandas==2.0.3
-scikit-learn==1.3.0
+numpy
+pandas
+scikit-learn
 
 # NLP y embeddings
-sentence-transformers==2.2.2
-transformers==4.30.2
-torch==2.0.1
-nltk==3.8.1
-spacy==3.6.0
+sentence-transformers
+transformers
+torch
+nltk
+spacy
 
 # Procesador de texto
-python-Levenshtein==0.21.1
-difflib
-unidecode==1.3.6
+python-Levenshtein
+unidecode
 
 # Librerías ML
-scipy==1.11.1
-matplotlib==3.7.2
-seaborn==0.12.2
+scipy
+matplotlib
+seaborn
 
 # Utilidades
-tqdm==4.65.0
-joblib==1.3.1
+tqdm
+joblib
+
+# Web App
+streamlit
+plotly
